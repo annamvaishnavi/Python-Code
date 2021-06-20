@@ -1,2 +1,2 @@
-# Python-Code
+# Python-Codes
 Searching, Sorting, Patterns 
